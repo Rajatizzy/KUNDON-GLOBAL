@@ -1,0 +1,42 @@
+@media only screen and (max-width: 991.78px){
+    .logo img {
+        width: 230px;
+        
+    }
+    /* .navbar-toggler-icon{
+        width: 27px !important;
+        height: 27px !important;
+       } */
+       .navbar-toggler {
+        color: #EB0404 !important;
+        background-color: white !important;
+    }
+    .navbar-collapse{
+        background-color: transparent !important;
+        margin-top: 7px;
+    }
+    .signup {
+    margin-top: 25px;
+    margin-left: 20px;
+    }
+
+
+
+
+
+
+    footer{
+        height: auto;
+    }
+    .foot p{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 736.78px){
+
+}
+
+@media only screen and (max-width: 320px){
+    
+}
